@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+*.log
+firebase-debug.log
+
+# Conductor workspace collaboration dir
+.context/
+
+# Local tooling
+node_modules/
+.firebase/
+--full-page
